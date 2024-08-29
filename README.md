@@ -15,4 +15,4 @@ A Diablo 4 script that automatically masterworks your items until it gets 3x CRI
 - You can see the attempt number, as well as successes and fails in the terminal.
 
 ## To DO
-* Add randomisation to mouse movement
+  Add randomisation to mouse movement
