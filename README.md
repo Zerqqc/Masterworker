@@ -3,7 +3,7 @@ A Diablo 4 script that automatically masterworks your items until it gets 3x CRI
 
 > [!WARNING]  
 > Keep in mind that using any kind of 3rd party tools can get you banned.
-> Use at your own risk.
+> **Use at your own risk.**
 
 ## Usage
 - Download all the necessary files.
@@ -13,7 +13,10 @@ A Diablo 4 script that automatically masterworks your items until it gets 3x CRI
 - Program will stop automatically when the item is fully masterworked, or if there aren't enough materials to continue. You can also stop it manually by pressing the ` button again, or by changing the active window.
 - You can see the attempt number, as well as successes and fails in the terminal.
 
-## To DO
+## To-Do
     Add randomisation to mouse movement
+## Project Showcase
+
+[Short Video](https://www.youtube.com/watch?v=NB6c2up2Hts)
 
 ![image](https://github.com/user-attachments/assets/c404d8df-8228-4d67-a8a5-98a3d336c903)
