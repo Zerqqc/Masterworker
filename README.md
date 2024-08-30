@@ -15,3 +15,5 @@ A Diablo 4 script that automatically masterworks your items until it gets 3x CRI
 
 ## To DO
     Add randomisation to mouse movement
+
+![image](https://github.com/user-attachments/assets/c404d8df-8228-4d67-a8a5-98a3d336c903)
